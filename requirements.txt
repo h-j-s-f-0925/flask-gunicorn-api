@@ -1,6 +1,10 @@
 Flask-JWT-Extended
 Flask-Smorest
 Flask-SQLAlchemy
+flask-jwt-Extended
+flask-Smorest
+flask-SQLAlchemy
+sqlalchemy
 passlib
 marshmallow
 python-dotenv
